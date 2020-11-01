@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>jQuery.scrollpanel 0.5.0 Demo</title>
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="stylesheet" href="playlist.css">
+	<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+
+
+</head>
+
+<body>
+    <br><br>
+    <div class="clearfix">
+        
+		
+		<div class="container">
+		  <div class="row">
+		  <div style="background-color:#000;" class="col-md-9" >
+		   <video id="vidp" width="100%" height="393" controls preload="auto">
+			  <source src="http://www.w3schools.com/tags/movie.mp4" type="video/mp4">
+			  Your browser does not support the video tag.
+			</video>
+		  </div>
+			<div class="col-md-3" >
+			<div class="scrollpanel no1">
+		   <div data-url="http://www.w3schools.com/tags/movie.mp4" class="foo">I am video 1</div>
+		   <div data-url="//demosthenes.info/assets/videos/polina.mp4" class="foo">I am video 2</div>
+		   <div data-url="http://www.w3schools.com/tags/movie.mp4" class="foo">I am video 3</div>
+		   <div data-url="//demosthenes.info/assets/videos/polina.mp4" class="foo">I am video 4</div>
+		   <div data-url="http://www.w3schools.com/tags/movie.mp4" class="foo">I am video 5</div>
+		   <div data-url="//demosthenes.info/assets/videos/polina.mp4" class="foo">I am video 6</div>
+		   <div data-url="http://www.w3schools.com/tags/movie.mp4" class="foo">I am video 7</div>
+		   <div data-url="//demosthenes.info/assets/videos/polina.mp4" class="foo">I am video 8</div>
+		</div>
+			</div>
+		  </div>
+		</div>
+        
+    </div>
+
+    <script src="jquery-1.10.2.min.js"></script>
+    <script src="jquery.mousewheel-3.1.3.js"></script>
+    <script src="jquery.scrollpanel-0.5.0.min.js"></script>
+	<script>
+	      $('.scrollpanel').scrollpanel();
+		  
+		  $(document.body).on("click", ".foo", function () {
+		  var url = $(this).attr('data-url');
+		   var myVideo = document.getElementById('vidp');
+            myVideo.src = url;
+            myVideo.load();
+            myVideo.play();
+    });
+	</script>
+</body>
+
+</html>
