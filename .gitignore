@@ -10,3 +10,7 @@
 # video files
 **.mp4
 **.webm
+
+# pdf viewer
+**.bcmap
+**.properties
