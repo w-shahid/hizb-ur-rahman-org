@@ -53,7 +53,7 @@
 
 
 					<li>
-                        <a href="../upload_content.php"><b style="background-color:powderblue">Upload Content</b></a>
+                        <a href="../upload_content.php"><b style="background-color:powderblue">Upload Data</b></a>
 					</li>
 
                     <li>
@@ -71,7 +71,7 @@
 						</ul>
                     </li>
                     <li>
-                        <a href="../contact.php"><b>Ask Questions</b></a>
+                        <a href="../contact.php"><b>Ask Question</b></a>
                     </li>
 
 				</ul>
