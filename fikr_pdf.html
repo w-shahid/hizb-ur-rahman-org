@@ -1,0 +1,23 @@
+<html>
+<body>
+
+
+<iframe id="myFrame" style="display:none" width="800" height="550"></iframe>
+<input type="button" value="Open PDF" onclick = "openPdf()"/>
+
+<input type="button" value="Download"/>
+
+<script type="text/javascript">
+function openPdf()
+{
+var omyFrame = document.getElementById("myFrame");
+omyFrame.style.display="block";
+omyFrame.src = "test.pdf";
+}
+</script>
+
+
+
+
+</html>
+</body>

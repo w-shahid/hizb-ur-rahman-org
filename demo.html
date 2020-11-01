@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Videos</title>
+	<!-- Page Redirect Code added to Video Channel-->
+        <meta http-equiv="refresh" content="0; url=/Video_Channel/video_channel.php" />
+
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="robots" content="index,follow" />
+<link rel="shortcut icon" href="images/favicon.ico" /> 
+<link rel="stylesheet" href="../fonts.googleapis.com/css@family=Lato_3A400,700" type="text/css" />
+<link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" />
+<link rel="stylesheet" href="css/flexslider.css" type="text/css" />
+<link rel="stylesheet" href="css/stratosfera.css" type="text/css" />
+<link rel="stylesheet" href="css/style.css" type="text/css" />
+
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script src="../https@html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<script type="text/javascript" src="js/selectivizr-min.js"></script>
+<link rel="stylesheet" href="css/ie_7.css" type="text/css" />
+<![endif]-->
+<script src="../ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')</script>
+<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/jquery-ui-1.8.16.custom.min.js"></script>
+<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="js/slides.min.jquery.js"></script>
+<script type="text/javascript" src="js/jquery.fitvids.js"></script>
+<script type="text/javascript" src="js/slides.min.jquery.js"></script>
+<script type="text/javascript" src="js/jquery.animate-colors-min.js"></script>
+<script type="text/javascript" src="js/jquery.backgroundPosition.js"></script>
+<script type="text/javascript" src="js/respond.min.js"></script>
+<script type="text/javascript" src="js/jquery.touchwipe.min.js"></script>
+<script type="text/javascript" src="js/misc.js"></script>
+<script type="text/javascript" src="js/jquery.flexslider-min.js"></script>
+<script type="text/javascript" src="js/jquery.carouFredSel.js"></script>
+  <!-- Chang URLs to wherever Video.js files will be hosted -->
+  <link href="video-js.css" rel="stylesheet" type="text/css">
+  <!-- video.js must be in the <head> for older IEs to work. -->
+  <script src="video.js"></script>
+
+  <!-- Unless using the CDN hosted version, update the URL to the Flash SWF -->
+  <script>
+    videojs.options.flash.swf = "video-js.swf";
+  </script>
+
+
+</head>
+<body>
+	<!-- START HEADER -->
+	<header class="header_bg clearfix">
+		<div class="container clearfix">
+			 <!-- START LOGO -->
+			<div class="logo">
+				<a href="index.html"><img src="images/logo.png" alt="" /></a>
+			</div>
+			 <!-- END LOGO -->
+			
+			<!-- START NAVIGATION -->
+			<nav class="main-menu">
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li>
+						<a>Hizb-ur-Rahman</a>
+						<ul>
+							<li><a href="index2.html">Introduction</a></li>
+							<li><a href="shortcodes.html">Foundation</a></li>
+							<li><a href="pricing.html">Aims & Objectives</a></li>
+							<li><a href="blog_single.html">Constitution</a></li>
+							<li><a href="404.html">Board of Directors</a></li>
+							<li><a>Shaykh-e-Kamil</a>
+								<ul>
+									<li><a href="#">Biography</a></li>
+									<li><a href="#">Shajrah</a></li>
+									<li><a href="#">Shrine</a></li>
+                                    <li><a href="#">Urs sharif Mehfils</a></li>
+                                    <li><a href="#">Sayings</a></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					
+					<li><a>Islamic Academy</a>
+						<ul>
+							<li><a href="portfolio_2_cols.html">Foundation</a></li>
+							<li><a href="principle-message.html">Message from Principle</a></li>
+							<li><a href="portfolio_4_cols.html">Academic Performance</a></li>
+							<li><a href="portfolio_single.html">Faculties and Institutes</a></li>
+                            <li><a href="portfolio_single.html">Admissions</a></li>
+                            <li><a href="portfolio_single.html">Time Table</a></li>
+                            <li><a href="portfolio_single.html">Facilities</a></li>
+						</ul>
+					</li>
+					<li><a href="portfolio_2_cols.html">Fikr-e-Nawaz</a>
+					</li>
+					<li><a>Multimedia</a>
+                    	<ul>
+							<li><a href="portfolio_2_cols.html">Books and Publications</a></li>
+							<li><a href="portfolio_3_cols.html">Photo Gallery</a></li>
+							<li><a href="portfolio_4_cols.html">Video Gallery</a></li>
+							<li><a href="portfolio_single.html">Speaches of Hazrat Sahab</a></li>
+                            <li><a href="portfolio_single.html">Upcoming Events</a></li>
+                            <li><a href="portfolio_single.html">News</a></li>
+                   
+						</ul>
+                    
+					<li><a href="contact.html">Contact</a></li>
+				</ul>
+			</nav>
+			<!-- END NAVIGATION -->
+		</div>
+	</header>
+	
+	
+	<div class="clear"></div>
+	<!-- END HEADER -->
+<div style="text-align:center"> 
+  <button onclick="playPause()">Play/Pause</button> 
+  <button onclick="makeBig()">Big</button>
+  <button onclick="makeSmall()">Small</button>
+  <button onclick="makeNormal()">Normal</button>
+  <br> 
+  <h1>Noor-e-Kibriya Conference G-8 Islamabad</h1>
+  <video id="video1" width="500">
+    <source src="islamabad_g8_try.webm" type="video/webm">
+    <!-- <source src="mov_bbb.ogg" type="video/ogg"> -->
+    Your browser does not support HTML5 video.
+  </video>
+  
+</div> 
+
+<script> 
+var myVideo=document.getElementById("video1"); 
+
+function playPause()
+{ 
+if (myVideo.paused) 
+  myVideo.play(); 
+else 
+  myVideo.pause(); 
+} 
+
+function makeBig()
+{ 
+myVideo.width=700; 
+} 
+
+function makeSmall()
+{ 
+myVideo.width=320; 
+} 
+
+function makeNormal()
+{ 
+myVideo.width=500; 
+} 
+</script> 
+</body>
+</html>
