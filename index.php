@@ -138,14 +138,14 @@ Plz try to reach in time. Contact Person: Hafiz M Nadeem Rabbani,(Gen. Sec.H.R.S
 	
 <div class="clearfix">
     <div class="container">
-        <!-- <h2> سالانہ عرس مبارک حضرت پیر سید محمد عبداللہ شاہ قادری دربار قادر بخش شریف تحصیل کمالیہ ضلع ٹوبہ ٹیک سنگھ انشاءاللہ 21, 22, 23 اکتوبر 2020 کو منعقد ہو رہا ہے شرکت فرما کر دنیا و آخرت کی کامیابیاں حاصل کریں </h2> -->
+        <h2> سالانہ عرس مبارک حضرت پیر سید محمد عبداللہ شاہ قادری دربار قادر بخش شریف تحصیل کمالیہ ضلع ٹوبہ ٹیک سنگھ انشاءاللہ 21, 22, 23 اکتوبر 2021 کو منعقد ہو رہا ہے شرکت فرما کر دنیا و آخرت کی کامیابیاں حاصل کریں </h2>
 
         <!-- <h3 class="center-block"><a href="live.php">!!! عرس شریف 2020 حضرت پیر سید فراز شاہ قادری کی تقریر یہاں کلک کریں !!!</a></h3> -->
-        <!-- <h3 class="center-block"><a href="live.php">!!! عرس شریف 2020 براہ راست نشریات یہاں کلک کریں !!!</a></h3> -->
-		<!-- <h3 class="center-block"><a href="live.php">!!! Urs Sharif 23 October 2020 Live Hazrat Peer Syed Faraz Shah Qadri Speech !!! CLICK HERE</a></h3> -->
-        <!-- <a href="live.php">
+        <h3 class="center-block"><a href="live.php">!!! عرس شریف 2021 براہ راست نشریات یہاں کلک کریں !!!</a></h3>
+		<h3 class="center-block"><a href="live.php">!!! Urs Sharif 23 October 2021 Live Hazrat Peer Syed Faraz Shah Qadri Speech !!! CLICK HERE</a></h3>
+        <a href="live.php">
             <img class="center-block" src="live_image.JPG" alt="" />
-        </a> -->
+        </a>
     </div>
 </div>
 <br><br><br>

@@ -71,14 +71,14 @@
     <!-- START PAGE INFO -->
     <header class="container page_info clearfix">
         <div class="text">
-            <h1>Urs Sharif 2020 Recording (Live Broadcast)</h1>
+            <h1>Urs Sharif 2021 Live Broadcast</h1>
         </div>
         <div class="clear"></div>
     </header>
     <div class="delimiter"></div>
     <!-- END PAGE INFO -->
     <div class="recent_works_left">
-        <!-- <h2 class="red">Hazrat Peer Syed Faraz Shah Qadri Live Speech Urs Sharif 2020</h2> -->
+        <!-- <h2 class="red">Hazrat Peer Syed Faraz Shah Qadri Live Speech Urs Sharif 2021</h2> -->
         <!-- <h2 class="red">Live Broadcast has finished</h2> -->
     </div>
 
@@ -86,16 +86,10 @@
     <div class="clearfix">
         <div class="container">
             <div class="recent_works_left">
-                <h2 class="blue">Hazrat Peer Syed Faraz Shah Qadri Recording (Live Speech) Urs Sharif 2020</h2>
+                <h3>!!! عرس شریف 2021 براہ راست نشریات 23 اکتوبر 2021 !!!</h3>
+                <h2 class="blue">Hazrat Peer Syed Faraz Shah Qadri Recording (Live Speech) Urs Sharif 2021</h2>
                 <h2 class="blue">Khatam-e-Quran and Dua</h2>
-            </div>
-        </div>
-        <div class="container">
-            <div style="background-color:#000;" class="col-md-9">
-                <video id="working" width="100%" height="393" poster="Video_Channel/Videos/Live_Video_Urs_2020/Live_Video_Urs_2020.jpg" controls preload="auto">
-                    <source src="Video_Channel/Videos/Live_Video_Urs_2020/Live_Video_Urs_2020.mp4" type="video/mp4"/>
-                    Your browser does not support the video tag.
-                </video>
+                <h1 class="blue">on 23 October 2021</h1>
             </div>
         </div>
     </div>
