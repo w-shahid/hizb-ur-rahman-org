@@ -171,7 +171,11 @@ Plz try to reach in time. Contact Person: Hafiz M Nadeem Rabbani,(Gen. Sec.H.R.S
 					
 				</li>
 				<li>
-					<img src="images/acadmeymain.jpg" alt="" />
+                    <picture>
+                        <source type="image/webp" srcset="images/acadmeymain.webp">
+                        <source type="image/jpeg" srcset="images/acadmeymain.jpg">
+                        <img src="images/acadmeymain.jpg" alt="">
+                    </picture>
 				</li>
 
 				<li>

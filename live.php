@@ -5,7 +5,6 @@
     <meta charset="utf-8">
     <title>Live Broadcast Hizb-ur-Rahman</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="playlist.css">
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
 
@@ -16,7 +15,6 @@
     <meta name="robots" content="index,follow"/>
     <link rel="shortcut icon" href="../images/favicon.ico"/>
     <link rel="stylesheet" href="../fonts.googleapis.com/css@family=Lato_3A400,700" type="text/css"/>
-    <link rel="stylesheet" href="../css/prettyPhoto.css" type="text/css"/>
     <link rel="stylesheet" href="../css/stratosfera.css" type="text/css"/>
     <link rel="stylesheet" href="../css/style.css" type="text/css"/>
     <!--[if (gte IE 6)&(lte IE 8)]>
@@ -24,8 +22,6 @@
     <script type="text/javascript" src="js/selectivizr-min.js"></script>
     <link rel="stylesheet" href="css/ie_7.css" type="text/css"/>
     <![endif]-->
-    <script src="../ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')</script>
     <script type="text/javascript" src="../js/jquery.easing.1.3.js"></script>
     <script type="text/javascript" src="../js/jquery-ui-1.8.16.custom.min.js"></script>
     <script type="text/javascript" src="../js/jquery.prettyPhoto.js"></script>
