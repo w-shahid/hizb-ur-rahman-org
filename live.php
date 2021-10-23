@@ -92,12 +92,6 @@
 
     <div class="clearfix">
         <div class="container">
-            <div class="recent_works_left">
-                <h2 class="blue">Hazrat Peer Syed Faraz Shah Qadri Recording (Live Speech) Urs Sharif 2021</h2>
-                <h2 class="blue">Khatam-e-Quran and Dua</h2>
-            </div>
-        </div>
-        <div class="container">
             <div style="background-color:#000;" class="col-md-9">
                 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fabdulghafoor.shahid.10%2Fvideos%2F1103073280467803%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
             </div>
