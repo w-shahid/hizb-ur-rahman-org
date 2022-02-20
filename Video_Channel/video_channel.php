@@ -90,6 +90,26 @@
 <div class="clearfix">
     <div class="container">
         <div class="recent_works_left">
+            <h3 class="blue">Annual Urs Sharif Darbar Qadir Bukhsh 2021</h3>
+        </div>
+    </div>
+    <div class="container">
+        <div style="background-color:#000;" class="col-md-9">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/fmTaYLENGU4"
+                    title="YouTube video player" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen>
+            </iframe>
+        </div>
+    </div>
+</div>
+
+<br><br><br>
+<section class="container clearfix"><div class="delimiter"></div></section>
+
+<div class="clearfix">
+    <div class="container">
+        <div class="recent_works_left">
             <h3 class="blue">Peer Syed Muhammad Faraz Shah Qadri CEO Hizb-ur-Rahman College</h3>
         </div>
     </div>
