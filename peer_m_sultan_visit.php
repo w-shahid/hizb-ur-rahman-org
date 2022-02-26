@@ -52,10 +52,8 @@
 			</header>
 			<div class="delimiter"></div>
 		<!-- END PAGE INFO -->
-		
-		<div class="col_1_4">
-			<h1 class="red">Dr. Hazrat Allama Peer Muhammad Sultan Darbar Shareef Nairian Shareef Visit to Hizb-ur-Rahman Acadmey</h1>
-		</div>
+
+        <h1 class="red">Dr. Hazrat Allama Peer Muhammad Sultan Darbar Shareef Nairian Shareef Visit to Hizb-ur-Rahman Acadmey</h1>
 		
 		<div class="clear padding20"></div>
 
