@@ -57,14 +57,13 @@
 		
 		<div class="clear padding20"></div>
 
-
         <div class="clearfix">
             <div class="container">
                 <div style="background-color:#000;" class="col-md-9">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/5Uv4MwDqiuc"
+                    <iframe width="560" height="480" src="https://www.youtube.com/embed/5Uv4MwDqiuc"
                             title="YouTube video player" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen>
+                            allowfullscreen style="border-style: none;width: 100%; height: 480px;">
                     </iframe>
                 </div>
             </div>
