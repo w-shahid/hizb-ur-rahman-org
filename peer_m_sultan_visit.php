@@ -61,10 +61,11 @@
         <div class="clearfix">
             <div class="container">
                 <div style="background-color:#000;" class="col-md-9">
-                    <video id="working" width="100%" height="393" poster="images/Peer_M_Sultan_Visit/visit_main.png" controls preload="auto">
-                        <source src="images/Peer_M_Sultan_Visit/nairian_darbar_shareef_kashmir_visit.mp4" type="video/mp4"/>
-                        Your browser does not support the video tag.
-                    </video>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/5Uv4MwDqiuc"
+                            title="YouTube video player" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen>
+                    </iframe>
                 </div>
             </div>
         </div>
