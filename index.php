@@ -119,8 +119,8 @@ Plz try to reach in time. Contact Person: Hafiz M Nadeem Rabbani,(Gen. Sec.H.R.S
 
 <marquee direction="right">  <font size="4.5">عالم دین،مفتی اسلامی سکالر کا ایمان افروز بیان۔ خصوصی خطاب حضرت پیر سید محمد فراز شاہ قادری پرنسپل حزب الرحمن اسلامی اکادمی۔ تمام مسلمان بھایؤں اور خواتین  کو شرکت کی دعوت دی جاتی ہے۔ خواتین کے لۓ گیلری میں پردہ کا انتظام ہو گا <font></marquee>-->
 
-<!--<marquee direction="right">  <font size="4">حزب الرحمن اسلامی اکادمی کےطلباء نے میٹرک کے امتحانات میں 100 فیصد نتیجہ حاصل کر لیا اور شاندار نمبر حاصل کر کیۓ</font></marquee>-->
-
+<!--<marquee direction="right">  <font size="4">حزب الرحمن اسلامی اکادمی</font></marquee>-->
+    <marquee direction="right"><a href="peer_m_sultan_visit.php"><font size="5"> حضرت علامہ پیر محمد سلطان سجادہ نشین دربار عالیہ نیریاں شریف آزاد کشمیر، حزب الرحمن اسلامی اکادمی تشریف لاۓ تصاویر کے لیے کلک کریں <font></a></marquee>
 <!--
 <marquee direction="right"><a href="urs_sharif_2018.php"><font size="5">   سالانہ عرس مبارک دربار قادر بخش شریف 2018 کی تصاویر کے لیے کلک کریں <font></a></marquee>
 -->
