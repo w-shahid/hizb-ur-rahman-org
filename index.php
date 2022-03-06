@@ -143,6 +143,8 @@ Plz try to reach in time. Contact Person: Hafiz M Nadeem Rabbani,(Gen. Sec.H.R.S
         <!-- <h3 class="center-block"><a href="live.php">!!! عرس شریف 2020 حضرت پیر سید فراز شاہ قادری کی تقریر یہاں کلک کریں !!!</a></h3> -->
 <!--        <h3 class="center-block"><a href="live.php">!!! عرس شریف 2021 براہ راست نشریات یہاں کلک کریں !!!</a></h3>-->
 <!--		<h3 class="center-block"><a href="live.php">!!! Urs Sharif 23 October 2021 Live Hazrat Peer Syed Faraz Shah Qadri Speech !!! CLICK HERE</a></h3>-->
+<h3 class="center-block"><a href="live.php">!!! یک روزہ عرس شریف 6 مارچ 2022 براہ راست نشریات یہاں کلک کریں !!!</a></h3>
+<h3 class="center-block"><a href="live.php">!!! One day Urs 6 March 2022 Live Hazrat Peer Syed Faraz Shah Qadri Speech !!! CLICK HERE</a></h3>
 <!--        <div style="background-color:#000;" class="col-md-9">-->
 <!--            <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fabdulghafoor.shahid.10%2Fvideos%2F379574333812458%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>-->
             <!--                <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fabdulghafoor.shahid.10%2Fvideos%2F1103073280467803%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>-->

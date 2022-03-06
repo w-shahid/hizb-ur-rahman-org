@@ -67,7 +67,7 @@
     <!-- START PAGE INFO -->
     <header class="container page_info clearfix">
         <div class="text">
-            <h1>Urs Sharif 2021 Live Broadcast</h1>
+            <h1>Hazrat Peer Syed Faraz Shah Qadri Speech Live Broadcast</h1>
         </div>
         <div class="clear"></div>
     </header>
@@ -82,10 +82,9 @@
     <div class="clearfix">
         <div class="container">
             <div class="recent_works_left">
-                <h3>!!! عرس شریف 2021 براہ راست نشریات 23 اکتوبر 2021 !!!</h3>
-                <h2 class="blue">Hazrat Peer Syed Faraz Shah Qadri Recording (Live Speech) Urs Sharif 2021</h2>
-                <h2 class="blue">Khatam-e-Quran and Dua</h2>
-                <h1 class="blue">on 23 October 2021</h1>
+                <h3>!!! یک روزہ عرس شریف 6 مارچ 2022 براہ راست نشریات یہاں کلک کریں !!!</h3>
+                <h2 class="blue">Hazrat Peer Syed Faraz Shah Qadri Speech (Live Speech)</h2>
+                <h1 class="blue">on 6 March 2022</h1>
             </div>
         </div>
     </div>
@@ -93,7 +92,8 @@
     <div class="clearfix">
         <div class="container">
             <div style="background-color:#000;" class="col-md-9">
-                <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fabdulghafoor.shahid.10%2Fvideos%2F379574333812458%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+                <h2 class="blue">Live in few hours</h2>
+<!--                <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fabdulghafoor.shahid.10%2Fvideos%2F379574333812458%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>-->
 <!--                <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fabdulghafoor.shahid.10%2Fvideos%2F1103073280467803%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>-->
             </div>
         </div>
